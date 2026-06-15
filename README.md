@@ -2,12 +2,11 @@
 # PeanutArch/Linux Ricing
 
 ## ✍️ Overview
+PeantArch/ArchLinux
 
-PeantArch/ArchLinux
-PeantArch/ArchLinux
-Jun 2026 - PresentJun 2026 - Present
-This summer, I decided to challenge myself by manueling installing and maintaining Archlinux.
-Archlinux is one of the many linux distros like Ubuntu and Fedora, but it forces users to build their OS from the ground up. Package management tools like pacman and yay were used to configure this system, and regular/shell scripting were use to execute and test programs/applications. Hyprland, a customizable desktop environment was used which allowed me to build a beautiful UI for my system.
+Jun 2026 - Present
+
+This summer, I decided to challenge myself by manueling installing and maintaining Archlinux. Archlinux is one of the many linux distros like Ubuntu and Fedora, but it forces users to build their OS from the ground up. Package management tools like pacman and yay were used to configure this system, and regular/shell scripting were use to execute and test programs/applications. Hyprland, a customizable desktop environment was used which allowed me to build a beautiful UI for my system.
 
 <img src="images/home_page.png" width="100%" />
     
@@ -45,10 +44,10 @@ Archlinux is one of the many linux distros like Ubuntu and Fedora, but it forces
 
  If you would like to give any  feedback or for any reason, reach out to me in my personal[ discord server](https://discord.gg/9ajN3BXcu). I would love to chat :) 
 
-I have to my thanks to the **Archlinux and Hyprland community** for helping me set up this project. This was many times where I wanted smash Gemini, ChatGpt and claude against the wall for giving me garabage code/suggestion that didn't even work. But man, going through peoples orignal code and past mistakes how they fixed them really helped me out 
+I have to my give my specials thanks to the **Archlinux and Hyprland community** for helping me set up this project. There were many times where I wanted smash Gemini, ChatGpt and claude against the wall for giving me garabage code/suggestion that didn't even work. But man, going through peoples orignal code and past mistakes helped me fixed my own problems quickly= 
 
 
-As for my Last final thoughts, This project is still under development because there is a lot of things i need to fix like; Audio, random shutdowns when laptop is not charging(might be a hyprland problem) and I would like to add more customization like a; clean display manager, wallpaper/waybar theme switcher, and more! But as of right now I am currently working on other projects so I will be working on this time to time. Thank you again for going through this repo and hope you all have a great day.
+As for my Last final thoughts, This project is still under development, there are still on going issues like Audioc configurations, random shutdowns when laptop is not charging(might be a hyprland problem) and I would like to add more customization like a; clean display manager, wallpaper/waybar theme switcher, and more! But as of right now I am currently working on other projects so I will be working on this time to time. Thank you again for going through this repo and hope you all have a great day.
 
 
  ## Hyprland Gallery
