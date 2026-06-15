@@ -53,7 +53,7 @@ As for my Last final thoughts, This project is still under development, there ar
  ## Hyprland Gallery
 
 
-<img src="images/fancy_terminals.png"width="100%" />
+<img src="images/fancy_terminals.png" width="100%"/>
 <img src="images/terminals.png" width="100%" />
 
 All Rights Reserved | Isaiah Santamaria
